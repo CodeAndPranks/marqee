@@ -1,3 +1,3 @@
-# marqee-test is made to test deprached tag's on todays browsers.Like e.g <marqee>,<center>,<blitz> ++
-The script is a functionable multi gif.See/try it here;
+# marqee is made to test deprached tag's on todays browsers.<marqee>,
+The script is a functionable multi gif with button and more.Try it here;
 https://codeandpranks.github.io/marqee
